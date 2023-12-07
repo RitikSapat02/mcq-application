@@ -1,0 +1,48 @@
+.App {
+  text-align: center;
+  margin-top: 50px;
+}
+
+h1 {
+  color: #333;
+}
+
+p {
+  color: #555;
+}
+
+h3 {
+  margin-top: 20px;
+  color: #777;
+}
+
+div {
+  margin-top: 20px;
+}
+
+label {
+  margin-right: 10px;
+}
+
+.selected {
+  background-color: #eee;
+}
+
+button {
+  margin-top: 20px;
+  padding: 10px;
+  font-size: 16px;
+  cursor: pointer;
+  background-color: #4caf50;
+  color: white;
+  border: none;
+  border-radius: 5px;
+}
+
+button:hover {
+  background-color: #45a049;
+}
+
+.score{
+  font-size: 25px;
+}
